@@ -25,7 +25,7 @@ class HomePage extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: Colors.white,
           title: Text(
-            "facebook",
+            "Facebook",
             style: TextStyle(
               color: Colors.blue[700],
               fontWeight: FontWeight.bold,
